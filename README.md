@@ -11,7 +11,7 @@ familiar with [Git and Repo](https://source.android.com/setup/build/downloading)
 To initialize your local repository, use command:
 
 ```bash
-repo init -u https://github.com/Ghnkz/android_manifest.git -b arrow-13.1_ext
+repo init -u https://github.com/kylieeXD/android_manifest.git -b arrow-13.1_ext
 ```
 
 Then sync up:
