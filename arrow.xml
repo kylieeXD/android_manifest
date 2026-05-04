@@ -19,6 +19,10 @@
 <remote  name="arrow-fe"
            fetch="https://github.com/ArrowOS-T"
            revision="refs/heads/arrow-13.1_ext" />
+
+<remote  name="Cilok-F"
+           fetch="https://github.com/kylieeXD"
+           revision="refs/heads/arrow-13.1" />
   
   <remote  name="arrow-hk"
            fetch="https://github.com/ArrowOS-HK"
@@ -81,7 +85,7 @@
   <project path="external/bouncycastle" name="android_external_bouncycastle" remote="arrow-hk" />
 
   <!-- framework repos -->
-  <project path="frameworks/av" name="android_frameworks_av" remote="arrow-f" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="Cilok-F" />
   <project path="frameworks/base" name="android_frameworks_base" remote="arrow-hk" />
   <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="arrow" />
   <project path="frameworks/native" name="android_frameworks_native" remote="arrow-f" />
